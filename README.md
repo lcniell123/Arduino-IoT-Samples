@@ -1,5 +1,5 @@
-# arduino-starter
-Starter Exercises
+# Arduino-IoT
+Arduino exercises and samples:
 - LoveMeter: https://programminginarduino.wordpress.com/2016/02/29/projecte-3/
 - Spacecraft: https://www.okdo.com/project/building-a-spaceship-interface-with-the-arduino-starter-kit/
 
